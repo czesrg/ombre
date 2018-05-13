@@ -74,3 +74,10 @@ Please view [LICENSE](LICENSE)
 
 [![License](https://img.shields.io/badge/license-BSD3-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 
+### Donate me:
+#### Ombre:
+cashVbGsrA1HKMqDHi3FG5CUgzbRHgF6ZRoqVGHdkZ24HWvNHekSocqauX5S588913K6SGFH4viF9jowxNwXBbdn5RUcdAA6wP
+#### Monero:
+484m3WHUFBRXbM2xtgxEdYFsjykxf2Mj6EnNfheCpnE53dEXmFYrWNiiXbrC6oEKqT6kumgzoPVJvUjW6PPGhpUpFWdQsfK
+#### Bitcoin:
+1HioM2usJjx7k3VgQwg1ijwz7CPkt4ZWzH
